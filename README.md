@@ -1,3 +1,3 @@
-#Project Management Tool
+**Project Management Tool**
 
 developed using NEXTJS
